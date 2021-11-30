@@ -3,10 +3,10 @@
 - 👨‍💻 Atualmente estudando para me tornar um Dev.Front-end
 - 📘 Focado em dominar nosso querido JavaScript!
 - 📩 felipe.dourados00@gmail.com
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: nowrap">
-  <a href="https://github.com/FelipeDourado0">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=FelipeDourado0&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="100%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDourado0&layout=compact&langs_count=7&theme=aura"/>
+<div align="center">
+      <a href="https://github.com/FelipeDourado0">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDourado0&show_icons=true&theme=aura&include_all_commits=true&    count_private=true"/>
+      <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDourado0&layout=compact&langs_count=7&theme=aura"/>
     
     
 </div>
