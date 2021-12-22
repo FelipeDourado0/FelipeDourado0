@@ -4,13 +4,13 @@
 - 📘 Focado em dominar nosso querido JavaScript!
 - Conhecimentos em: HTML, CSS, JS, SQL(banco de dados relacional), Java e C.
 - 📩 felipe.dourados00@gmail.com
-<div align="center">
+<div style="width: 1012px;display:flex; justify-content: space-between; flex-wrap: wrap;">
       <a href="https://github.com/FelipeDourado0">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDourado0&show_icons=true&theme=aura&include_all_commits=true&    count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDourado0&layout=compact&langs_count=7&theme=aura"/>
     
     
-</div  style="width: 800px;display:flex; justify-content: space-between; flex-wrap: wrap;">
+</div>
   <div style="display: inline_block;"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
