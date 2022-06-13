@@ -1,8 +1,8 @@
 ## Opa, bão?! Eu sou o Felipe Dourado
 
-- 👨‍💻 Atualmente estudando para me tornar um Dev.Front-end
-- 📘 Focado em dominar nosso querido JavaScript!
-- Conhecimentos em: HTML, CSS, JS, SQL(banco de dados relacional), Java C, .NET e C#.
+- 👨‍💻 Desenvolvedor .NET trainee na Squadra!
+- 📘 Aprendendo mais sobre o mundo back-end
+- Conhecimentos em: HTML, CSS, JS, SQL(banco de dados relacional), .NET, C#, Java e C.
 - 📩 felipe.dourados00@gmail.com
 <div align="center">
       <a href="https://github.com/FelipeDourado0">
