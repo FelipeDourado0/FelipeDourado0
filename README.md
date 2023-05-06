@@ -2,7 +2,7 @@
 
 - 👨‍💻 Desenvolvedor .NET trainee na Squadra!
 - 📘 Aprendendo mais sobre o mundo back-end
-- Conhecimentos em: HTML, CSS, JS, SQL(banco de dados relacional), .NET, C#, Java e C.
+- Conhecimentos em: HTML, CSS, JS, SQL(banco de dados relacional), .NET, C#, Java e Kotlin.
 - 📩 felipe.dourados00@gmail.com
 <div align="center">
       <a href="https://github.com/FelipeDourado0">
