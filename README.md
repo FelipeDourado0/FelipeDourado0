@@ -1,7 +1,7 @@
 ## Opa, bão?! Eu sou o Felipe Dourado
 
 - 👨‍💻 Desenvolvedor .NET Junior na Squadra!
-- 📘 Aprendendo mais sobre o mundo back-end e Mobile nativo
+- 📘 Aprendendo mais sobre o mundo back-end e Android nativo
 - Conhecimentos em: HTML, CSS, JS, SQL(banco de dados relacional), .NET, C#, Java e Kotlin.
 - 📩 felipe.dourados00@gmail.com
 <div align="center">
