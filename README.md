@@ -10,11 +10,11 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDourado0&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style=" width: 300px;display: flex; "><br>
+  <img align="center" alt="Felipe-Android" height="30" width="40" src="https://logowik.com/content/uploads/images/android-robot-head6361.jpg">
+  <img align="center" alt="Felipe-Kotlin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1024px-Kotlin_Icon.svg.png">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Android" height="30" width="40" src="https://logowik.com/content/uploads/images/android-robot-head6361.jpg">
-  <img align="center" alt="Felipe-Kotlin" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1024px-Kotlin_Icon.svg.png">
 </div>
   
   ##
