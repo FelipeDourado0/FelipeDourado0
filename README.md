@@ -2,7 +2,7 @@
 
 - 👨‍💻 Desenvolvedor .NET Junior na Squadra!
 - 📘 Aprendendo mais sobre o mundo back-end e Android nativo
-- Conhecimentos em: Kotlin, Jetpack, AndroidX, Dagger Hilt, SQL, Java, HTML, CSS, JS, .NET e C#.
+- Conhecimentos em: Kotlin, XML, Jetpack Compose, AndroidX, Dagger Hilt, SQL, HTML, CSS, JS, .NET.
 - 📩 felipe.dourados00@gmail.com
 <div align="center">
       <a href="https://github.com/FelipeDourado0">
