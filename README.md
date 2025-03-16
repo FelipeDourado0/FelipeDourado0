@@ -1,8 +1,8 @@
 ## Opa, bão?! Eu sou o Felipe Dourado
 
-- 👨‍💻 Desenvolvedor .NET Junior na Squadra!
+- 👨‍💻 Desenvolvedor Back-end Java!
 - 📘 Aprendendo mais sobre o mundo back-end e Android nativo
-- Conhecimentos em: Kotlin, XML, Jetpack Compose, AndroidX, Dagger Hilt, SQL, HTML, CSS, JS, .NET.
+- Conhecimentos em: Java 8+, Spring Boot, JPA, Hibernet, Kotlin, SQL, HTML, CSS, JS, React e .NET.
 - 📩 felipe.dourados00@gmail.com
 <div align="center">
       <a href="https://github.com/FelipeDourado0">
